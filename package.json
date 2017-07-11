@@ -8,15 +8,15 @@
     "mouse"
   ],
   "main": "gkm",
-  "author": "Tom Rochette <roctom@gmail.com>",
+  "author": "WhaleSoft <info@whalesoft.com.ua>",
   "license": "MIT",
-  "homepage": "https://github.com/tomzx/gkm",
+  "homepage": "https://github.com/WhaleSoft-Official/gkm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomzx/gkm.git"
+    "url": "https://github.com/WhaleSoft-Official/gkm.git"
   },
   "bugs": {
-    "url": "https://github.com/tomzx/gkm/issues"
+    "url": "https://github.com/WhaleSoft-Official/gkm/issues"
   },
   "dependencies": {
     "eventemitter2": "~0.4.13"
